@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ColorMyViews</string>
+    <string name="my_name">Nurbakhyt</string>
+    <string name="about_me">Agent of chaos
+                            \n asdsadadsadasdsa
+                            \n adsadaddsadadsd</string>
+
+    <string name="box_one"></string>
+    <string name="box_two"></string>
+    <string name="box_three"></string>
+    <string name="box_four"></string>
+    <string name="box_five"></string>
+    <string name="how_to_play">:</string>
+    <string name="tap_the_boxes_and_buttons">.</string>
+    <string name="button_red"></string>
+    <string name="button_yellow"></string>
+    <string name="button_green"></string>
+</resources>
